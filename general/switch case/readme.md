@@ -8,7 +8,7 @@ You can use this like this
 local switch = loadstring(game:HttpGet("https://raw.githubusercontent.com/SebExMachina/ROBLOX-scripts-ig/main/general/switch%20case/main.lua"))()
 ```
 then
-```
+```lua
 local value = math.random(1,3)
 switch(value, {
 [1] = function()
